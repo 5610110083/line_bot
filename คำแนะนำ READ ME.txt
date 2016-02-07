@@ -1,0 +1,16 @@
+﻿#################################################
+	คำแนะนำในการใช้งาน line_bot for windows 
+####################  by siczones  ####################
+
+1.	ติดตั้ง python ( แนะนำเป็น version ที่ ต่ำกว่า 3 )
+2.	set path ของ python โดย copy directory ของ python ที่ Environment ของ window
+3.	สร้างกลุ่ม แชท line ของเพื่อนร่วมกับ bot ของเรา
+4.	เปิด cmd(พิมพ์  cmd ใน url directory หรือ กด shift + คลิ๊กขวา เลือก command)
+	ลงใน folder line_bot ของเรา จากนั้น
+	พิมพ์  pip install line <Enter>
+5.	พิมพ์  config.py <Enter>
+6.	พิมพ์  setup.py install <Enter>
+7.	เข้าไปใน Folder  siczones_bot แก้ไขไฟล์  bot ที่ต้องการกรอก ID และ Password
+8.	เลือกไฟล์   bot ที่ต้องการ <Enter>
+
+#################### Thanks you.  ####################
